@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Gen Ai**
 
-- 💬 Ask me about **AI, Generative AI, Machine Learning**
+- 💬 My Skills **AI, Generative AI, Machine Learning**
 
 - 📫 How to reach me **hakgs1234@gmail.com**
 
