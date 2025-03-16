@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **AI, Generative AI, Machine Learning**
 
-- 📫 How to reach me **hakgs1234@gmail.com**
+- 📫 How to reach me **hamaadayubkhan-olsaqy.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
