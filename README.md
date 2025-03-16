@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/hamaadayubkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamaadayubkhan" height="30" width="40" /></a>
 <a href="https://kaggle.com/hamaad23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hamaad23" height="30" width="40" /></a>
 <a href="https://fb.com/hamaadayubkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamaadayubkhan" height="30" width="40" /></a>
-<a href="https://instagram.com/hamaadayubkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamaadayubkhan" height="30" width="40" /></a>
+<a href="https://instagram.com/hamaadayubkhan.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamaadayubkhan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
